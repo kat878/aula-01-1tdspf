@@ -1,1 +1,4 @@
 Primeira alteracao.
+Hoje dia 12, na aula de front-end design engineering, o professor nos ensinou sobre o estado dos arquivos.
+Nos ensinou a utilizar o git, fazer uma commit com uma explicaçao muita clara e boa.
+Apesar de ser iniciante pude compreeder muitas coisas.
